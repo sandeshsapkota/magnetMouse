@@ -100,7 +100,7 @@
     "is-wsl": "^1.1.0",
     "isarray": "^1.0.0",
     "isobject": "^3.0.1",
-    "kind-of": "^3.2.2",
+    "kind-of": "^6.0.3",
     "live-server": "^1.2.1",
     "map-cache": "^0.2.2",
     "map-stream": "^0.1.0",
