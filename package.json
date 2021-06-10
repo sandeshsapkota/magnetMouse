@@ -72,7 +72,7 @@
     "gauge": "^2.7.4",
     "glob": "^7.1.6",
     "get-value": "^2.0.6",
-    "glob-parent": "^3.1.0",
+    "glob-parent": "^5.1.2",
     "graceful-fs": "^4.2.3",
     "has-unicode": "^2.0.1",
     "has-value": "^1.0.0",
