@@ -167,7 +167,7 @@
     "send": "^0.17.1",
     "serve-index": "^1.9.1",
     "set-blocking": "^2.0.0",
-    "set-value": "^2.0.1",
+    "set-value": "^4.0.1",
     "setprototypeof": "^1.1.0",
     "signal-exit": "^3.0.2",
     "snapdragon": "^0.8.2",
