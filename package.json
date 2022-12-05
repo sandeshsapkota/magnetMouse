@@ -43,7 +43,7 @@
     "core-util-is": "^1.0.2",
     "cors": "^2.8.5",
     "debug": "^2.6.9",
-    "decode-uri-component": "^0.2.0",
+    "decode-uri-component": "^0.2.1",
     "deep-extend": "^0.6.0",
     "define-property": "^0.2.5",
     "delegates": "^1.0.0",
